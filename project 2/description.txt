@@ -1,0 +1,8 @@
+You are a give a dataset that specialises the age of the student,country ,average hours od using social media ,mental health score ,and etc.
+Your task is to aylysis Social media addiction to create key insight related to student mental health ,relationship status ,acadamic score and so on....
+create the dashboard for following and find
+Average sleep :find overall avg sleeping hrs of student
+Avg usage :find average usage of social media
+Affects of academics:find how it affecting academic score
+Top 10 countries:find top countries where studenta use more social media
+Most used social media:analyse and find which social media platform is used more
